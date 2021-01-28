@@ -4,7 +4,7 @@
 # https://www.microsoft.com
 
 set winpe_arch x64
-set win_image Win10_20H2_English_x64
+set win_image Win10_20H2_v2_English_x64
 set win_base_url $$win_base_url$$
 goto ${menu} ||
 
